@@ -1,0 +1,16 @@
+.container-card {
+  height: 100px;
+  width: 75%;
+
+  background-color: #7f54bf;
+  color: ghostwhite;
+
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  font-size: 18px;
+}
